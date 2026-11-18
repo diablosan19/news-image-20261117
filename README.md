@@ -1,5 +1,9 @@
 # The World in One Day — Tuesday 17 November 2026
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/diablosan19/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/diablosan19/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 A one-page newspaper front page that sums up the world news of **Tuesday
 17 November 2026** in a single 1024×1024 image (`entry.png`). A reader who
 missed the day should be able to reconstruct it from this page alone: the date
